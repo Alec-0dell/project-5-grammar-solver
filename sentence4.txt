@@ -1,0 +1,8 @@
+<s>::=<np> <vp>
+<np>::=<dp> <adjp> <n>
+<dp>::=the
+<adjp>::=<adj>
+<adj>::=big
+<n>::=dog
+<vp>::=<iv>
+<iv>::=collapsed
